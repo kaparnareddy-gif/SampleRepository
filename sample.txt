@@ -1,0 +1,15 @@
+ cat >> sample.txt sample message from sample.txt fxt file.[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[[3~[3~[F
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+
+
+
+git status
+
+exit
+end
+"dsfsd"
+
+$ git status
+
+sample data from sample.txt file
